@@ -12,24 +12,11 @@ showWidgetBorder = true
 borderColor = "#eeeef0"
 
 # Base text
-font = "Inter"
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
 baseFontWeight = 400
 baseFontSize = 14
 
 # Heading text
-headingFont = "Inter"
+headingFont = "Inter:https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
 headingFontWeights = [600, 600, 600, 200, 600, 200]
 headingFontSizes = ["3rem", "1.5rem", "1rem", "1rem", "0.8rem", "0.8rem"]
-
-
-[[theme.fontFaces]]
-family = "Inter"
-style = "normal"
-weight = "100 900"
-url = "https://fonts.gstatic.com/s/inter/v19/UcCo3FwrK3iLTcviYwYZ8UA3.woff2"
-
-[[theme.fontFaces]]
-family = "Inter"
-style = "italic"
-weight = "100 900"
-url = "https://fonts.gstatic.com/s/inter/v19/UcCm3FwrK3iLTcvnUwQT9mI1F54.woff2"
