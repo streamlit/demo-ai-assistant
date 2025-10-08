@@ -6,7 +6,7 @@ now you can!
 
 You can try out the AI Assistant app below:
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://st-assistant.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://demo-ai-assistant.streamlit.app/)
 
 ## Running it yourself
 
